@@ -18,7 +18,7 @@ In this lab, I will be working with Ansible to create a playbook that configures
 - <b>Red Hat Enterprise Linux 9</b> 
 - <b>VMware</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 I changed into the designated directory and created a new Ansible playbook named internet.yml using the following commands: <br/>
